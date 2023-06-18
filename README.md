@@ -1,5 +1,9 @@
 # React Native Crypto Wallet
 
+<div align="center">
+  <img src="./assets/yo.jpg" alt="Crypto Wallet Icon" width="200px" height="200px">
+</div>
+
 Welcome to the React Native Crypto Wallet project! This mobile application serves as a crypto wallet, allowing users to import Bitcoin or Polygon wallets using private keys, make transactions, and view previous transaction history. 
 
 ## Table of Contents
@@ -12,11 +16,15 @@ Welcome to the React Native Crypto Wallet project! This mobile application serve
 
 ## Features
 
-1. **Import Wallets**: Users can securely import their Bitcoin or Polygon wallets by providing their private keys.
-2. **Transaction Management**: Users can make cryptocurrency transactions directly from the app, sending funds to other wallets.
-3. **Transaction History**: The app provides a comprehensive transaction history, allowing users to view their previous transactions.
-4. **Security**: Wallets and private keys are stored securely and encrypted to ensure user safety.
-5. **Multi-Currency Support**: The app supports both Bitcoin and Polygon cryptocurrencies.
+✨ **Import Wallets**: Users can securely import their Bitcoin or Polygon wallets by providing their private keys.
+
+💸 **Transaction Management**: Users can make cryptocurrency transactions directly from the app, sending funds to other wallets.
+
+📚 **Transaction History**: The app provides a comprehensive transaction history, allowing users to view their previous transactions.
+
+🔒 **Security**: Wallets and private keys are stored securely and encrypted to ensure user safety.
+
+💱 **Multi-Currency Support**: The app supports both Bitcoin and Polygon cryptocurrencies.
 
 ## Installation
 
@@ -66,16 +74,16 @@ This command will start the Metro server, and you can choose to run the app on a
 
 The React Native Crypto Wallet project relies on the following dependencies:
 
-- `react`: A JavaScript library for building user interfaces.
-- `react-native`: A framework for building native applications using React.
-- `axios`: A promise-based HTTP client for making API requests.
-- `ethers`: A JavaScript library for interacting with Ethereum and Ethereum-like networks.
-- `bitcoinjs-lib`: A library for handling Bitcoin-related cryptographic functions.
-- `mobx`: A state management library for React applications.
-- `mobx-react`: A React integration for MobX.
-- `react-navigation`: A routing and navigation library for React Native apps.
-- `react-native-vector-icons`: A library that provides customizable icons for React Native.
-- `react-native-keychain`: A library for securely storing sensitive data such as private keys.
+- ![React Logo](react-icon.png) `react`: A JavaScript library for building user interfaces.
+- ![React Native Logo](react-native-icon.png) `react-native`: A framework for building native applications using React.
+- ![Axios Logo](axios-icon.png) `axios`: A promise-based HTTP client for making API requests.
+- ![Ethers Logo](ethers-icon.png) `ethers`: A JavaScript library for interacting with Ethereum and Ethereum-like networks.
+- ![BitcoinJS Logo](bitcoinjs-icon.png) `bitcoinjs-lib`: A library for handling Bitcoin-related cryptographic functions.
+- ![MobX Logo](mobx-icon.png) `mobx`: A state management library for React applications.
+- ![MobX React Logo](mobx-react-icon.png) `mobx-react`: A React integration for MobX.
+- ![React Navigation Logo](react-navigation-icon.png) `react-navigation`: A routing and navigation library for React Native apps.
+- ![React Native Vector Icons Logo](vector-icons-icon.png) `react-native-vector-icons`: A library that provides customizable icons for React Native.
+- ![React Native Keychain Logo](keychain-icon.png) `react-native-keychain`: A library for securely storing sensitive data such as private keys.
 
 Make sure to install these dependencies using your package manager before running the app.
 
@@ -85,7 +93,9 @@ Additionally, you may need to install some polyfill libraries to ensure compatib
 - `react-native-crypto`: A polyfill for the `crypto` module in React Native.
 - `react-native-get-random-values`: A polyfill for the `crypto.getRandomValues` function in React Native.
 
-You can install these polyfills using the following commands:
+You can install these polyfills using the following
+
+ commands:
 
 ```bash
 npm install --save-dev babel-preset-react-native
@@ -106,5 +116,3 @@ Contributions to the React Native Crypto Wallet project are welcome! If you have
 ## License
 
 The React Native Crypto Wallet project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
- Feel free to use, modify, and distribute the code for personal or commercial purposes.
