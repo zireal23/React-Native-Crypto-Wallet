@@ -74,9 +74,9 @@ This command will start the Metro server, and you can choose to run the app on a
 
 The React Native Crypto Wallet project relies on the following dependencies:
 
-- ![React Logo](react-icon.png) `react`: A JavaScript library for building user interfaces.
-- ![React Native Logo](react-native-icon.png) `react-native`: A framework for building native applications using React.
-- ![Axios Logo](axios-icon.png) `axios`: A promise-based HTTP client for making API requests.
+- ![React Logo](./assets/react.png) `react`: A JavaScript library for building user interfaces.
+- ![React Native Logo](./assets/react-native.png) `react-native`: A framework for building native applications using React.
+- ![Axios Logo](./assets/axios.png) `axios`: A promise-based HTTP client for making API requests.
 - ![Ethers Logo](ethers-icon.png) `ethers`: A JavaScript library for interacting with Ethereum and Ethereum-like networks.
 - ![BitcoinJS Logo](bitcoinjs-icon.png) `bitcoinjs-lib`: A library for handling Bitcoin-related cryptographic functions.
 - ![MobX Logo](mobx-icon.png) `mobx`: A state management library for React applications.
