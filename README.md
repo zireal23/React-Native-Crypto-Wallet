@@ -74,16 +74,16 @@ This command will start the Metro server, and you can choose to run the app on a
 
 The React Native Crypto Wallet project relies on the following dependencies:
 
-- ![React Logo](./assets/react.png) `react`: A JavaScript library for building user interfaces.
-- ![React Native Logo](./assets/react-native.png) `react-native`: A framework for building native applications using React.
-- ![Axios Logo](./assets/axios.png) `axios`: A promise-based HTTP client for making API requests.
-- ![Ethers Logo](ethers-icon.png) `ethers`: A JavaScript library for interacting with Ethereum and Ethereum-like networks.
-- ![BitcoinJS Logo](bitcoinjs-icon.png) `bitcoinjs-lib`: A library for handling Bitcoin-related cryptographic functions.
-- ![MobX Logo](mobx-icon.png) `mobx`: A state management library for React applications.
-- ![MobX React Logo](mobx-react-icon.png) `mobx-react`: A React integration for MobX.
-- ![React Navigation Logo](react-navigation-icon.png) `react-navigation`: A routing and navigation library for React Native apps.
-- ![React Native Vector Icons Logo](vector-icons-icon.png) `react-native-vector-icons`: A library that provides customizable icons for React Native.
-- ![React Native Keychain Logo](keychain-icon.png) `react-native-keychain`: A library for securely storing sensitive data such as private keys.
+- `react`: A JavaScript library for building user interfaces.
+- `react-native`: A framework for building native applications using React.
+- `axios`: A promise-based HTTP client for making API requests.
+- `ethers`: A JavaScript library for interacting with Ethereum and Ethereum-like networks.
+- `bitcoinjs-lib`: A library for handling Bitcoin-related cryptographic functions.
+- `mobx`: A state management library for React applications.
+- `mobx-react`: A React integration for MobX.
+- `react-navigation`: A routing and navigation library for React Native apps.
+- (vector-icons-icon.png) `react-native-vector-icons`: A library that provides customizable icons for React Native.
+- (keychain-icon.png) `react-native-keychain`: A library for securely storing sensitive data such as private keys.
 
 Make sure to install these dependencies using your package manager before running the app.
 
