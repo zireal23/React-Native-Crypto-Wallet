@@ -82,8 +82,8 @@ The React Native Crypto Wallet project relies on the following dependencies:
 - `mobx`: A state management library for React applications.
 - `mobx-react`: A React integration for MobX.
 - `react-navigation`: A routing and navigation library for React Native apps.
-- (vector-icons-icon.png) `react-native-vector-icons`: A library that provides customizable icons for React Native.
-- (keychain-icon.png) `react-native-keychain`: A library for securely storing sensitive data such as private keys.
+- `react-native-vector-icons`: A library that provides customizable icons for React Native.
+- `react-native-keychain`: A library for securely storing sensitive data such as private keys.
 
 Make sure to install these dependencies using your package manager before running the app.
 
