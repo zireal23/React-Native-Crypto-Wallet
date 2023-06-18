@@ -9,8 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-bitcoin.txt
-polygon.txt
+./bitcoin.txt
+./polygon.txt
 
 # macOS
 .DS_Store
